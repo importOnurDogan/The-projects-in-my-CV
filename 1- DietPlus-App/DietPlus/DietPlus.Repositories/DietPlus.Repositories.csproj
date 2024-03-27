@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DietPlus.Context\DietPlus.Context.csproj" />
+    <ProjectReference Include="..\DietPlus.Core\DietPlus.Core.csproj" />
+    <ProjectReference Include="..\DietPlus.Entities\DietPlus.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

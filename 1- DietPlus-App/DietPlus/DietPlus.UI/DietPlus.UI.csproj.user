@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\murat\Desktop\Proje\DietPlus\DietPlus.UI\Properties\PublishProfiles\FolderProfile1.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Breakfast.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateNewFood.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dinner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HowManyCalories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lunch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MemberShipForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PasswordForget.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReportMostEatFood.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReportCategoryTotal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReportEndOfDay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReportMealTotal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WhoAreWe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

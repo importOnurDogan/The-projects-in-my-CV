@@ -1,0 +1,15 @@
+C:\Users\murat\Desktop\Proje\DietPlus\DietPlus.Entities\bin\Debug\net7.0\DietPlus.Entities.deps.json
+C:\Users\murat\Desktop\Proje\DietPlus\DietPlus.Entities\bin\Debug\net7.0\DietPlus.Entities.dll
+C:\Users\murat\Desktop\Proje\DietPlus\DietPlus.Entities\bin\Debug\net7.0\DietPlus.Entities.pdb
+C:\Users\murat\Desktop\Proje\DietPlus\DietPlus.Entities\bin\Debug\net7.0\DietPlus.Core.dll
+C:\Users\murat\Desktop\Proje\DietPlus\DietPlus.Entities\bin\Debug\net7.0\DietPlus.Core.pdb
+C:\Users\murat\Desktop\Proje\DietPlus\DietPlus.Entities\obj\Debug\net7.0\DietPlus.Entities.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\Proje\DietPlus\DietPlus.Entities\obj\Debug\net7.0\DietPlus.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\Desktop\Proje\DietPlus\DietPlus.Entities\obj\Debug\net7.0\DietPlus.Entities.AssemblyInfoInputs.cache
+C:\Users\murat\Desktop\Proje\DietPlus\DietPlus.Entities\obj\Debug\net7.0\DietPlus.Entities.AssemblyInfo.cs
+C:\Users\murat\Desktop\Proje\DietPlus\DietPlus.Entities\obj\Debug\net7.0\DietPlus.Entities.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\Proje\DietPlus\DietPlus.Entities\obj\Debug\net7.0\DietPlus.Entities.csproj.CopyComplete
+C:\Users\murat\Desktop\Proje\DietPlus\DietPlus.Entities\obj\Debug\net7.0\DietPlus.Entities.dll
+C:\Users\murat\Desktop\Proje\DietPlus\DietPlus.Entities\obj\Debug\net7.0\refint\DietPlus.Entities.dll
+C:\Users\murat\Desktop\Proje\DietPlus\DietPlus.Entities\obj\Debug\net7.0\DietPlus.Entities.pdb
+C:\Users\murat\Desktop\Proje\DietPlus\DietPlus.Entities\obj\Debug\net7.0\ref\DietPlus.Entities.dll

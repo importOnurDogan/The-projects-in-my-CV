@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CircularProgressBar_NET5" Version="3.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DietPlus.Context\DietPlus.Context.csproj" />
+    <ProjectReference Include="..\DietPlus.Core\DietPlus.Core.csproj" />
+    <ProjectReference Include="..\DietPlus.Entities\DietPlus.Entities.csproj" />
+    <ProjectReference Include="..\DietPlus.Mapping\DietPlus.Mapping.csproj" />
+    <ProjectReference Include="..\DietPlus.Repositories\DietPlus.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>

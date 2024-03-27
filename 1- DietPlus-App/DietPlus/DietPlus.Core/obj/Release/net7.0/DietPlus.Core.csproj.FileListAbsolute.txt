@@ -1,0 +1,11 @@
+C:\Users\murat\Desktop\Proje\DietPlus\DietPlus.Core\bin\Release\net7.0\DietPlus.Core.deps.json
+C:\Users\murat\Desktop\Proje\DietPlus\DietPlus.Core\bin\Release\net7.0\DietPlus.Core.dll
+C:\Users\murat\Desktop\Proje\DietPlus\DietPlus.Core\bin\Release\net7.0\DietPlus.Core.pdb
+C:\Users\murat\Desktop\Proje\DietPlus\DietPlus.Core\obj\Release\net7.0\DietPlus.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\Desktop\Proje\DietPlus\DietPlus.Core\obj\Release\net7.0\DietPlus.Core.AssemblyInfoInputs.cache
+C:\Users\murat\Desktop\Proje\DietPlus\DietPlus.Core\obj\Release\net7.0\DietPlus.Core.AssemblyInfo.cs
+C:\Users\murat\Desktop\Proje\DietPlus\DietPlus.Core\obj\Release\net7.0\DietPlus.Core.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\Proje\DietPlus\DietPlus.Core\obj\Release\net7.0\DietPlus.Core.dll
+C:\Users\murat\Desktop\Proje\DietPlus\DietPlus.Core\obj\Release\net7.0\refint\DietPlus.Core.dll
+C:\Users\murat\Desktop\Proje\DietPlus\DietPlus.Core\obj\Release\net7.0\DietPlus.Core.pdb
+C:\Users\murat\Desktop\Proje\DietPlus\DietPlus.Core\obj\Release\net7.0\ref\DietPlus.Core.dll

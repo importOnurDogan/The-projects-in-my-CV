@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DietPlus.UI", "DietPlus.UI\DietPlus.UI.csproj", "{AC6371D2-123F-43F0-9D12-1EB03B28373D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DietPlus.Context", "DietPlus.Context\DietPlus.Context.csproj", "{7B2D5D81-7558-4FD8-BCCA-C73EE20A7BC9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DietPlus.Core", "DietPlus.Core\DietPlus.Core.csproj", "{AC8131FA-021A-4741-9A48-BB8E984BD09E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DietPlus.Entities", "DietPlus.Entities\DietPlus.Entities.csproj", "{130061C9-7243-45D2-8339-73A4C8857434}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DietPlus.Mapping", "DietPlus.Mapping\DietPlus.Mapping.csproj", "{591016D9-917F-4A73-A3AD-A1B1C2B9DA66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DietPlus.Repositories", "DietPlus.Repositories\DietPlus.Repositories.csproj", "{BAE2FC96-8A72-47C2-8FD9-E5B721740DA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC6371D2-123F-43F0-9D12-1EB03B28373D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC6371D2-123F-43F0-9D12-1EB03B28373D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC6371D2-123F-43F0-9D12-1EB03B28373D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC6371D2-123F-43F0-9D12-1EB03B28373D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B2D5D81-7558-4FD8-BCCA-C73EE20A7BC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B2D5D81-7558-4FD8-BCCA-C73EE20A7BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B2D5D81-7558-4FD8-BCCA-C73EE20A7BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B2D5D81-7558-4FD8-BCCA-C73EE20A7BC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC8131FA-021A-4741-9A48-BB8E984BD09E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8131FA-021A-4741-9A48-BB8E984BD09E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8131FA-021A-4741-9A48-BB8E984BD09E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8131FA-021A-4741-9A48-BB8E984BD09E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{130061C9-7243-45D2-8339-73A4C8857434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{130061C9-7243-45D2-8339-73A4C8857434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{130061C9-7243-45D2-8339-73A4C8857434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{130061C9-7243-45D2-8339-73A4C8857434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{591016D9-917F-4A73-A3AD-A1B1C2B9DA66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{591016D9-917F-4A73-A3AD-A1B1C2B9DA66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{591016D9-917F-4A73-A3AD-A1B1C2B9DA66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{591016D9-917F-4A73-A3AD-A1B1C2B9DA66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAE2FC96-8A72-47C2-8FD9-E5B721740DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAE2FC96-8A72-47C2-8FD9-E5B721740DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAE2FC96-8A72-47C2-8FD9-E5B721740DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAE2FC96-8A72-47C2-8FD9-E5B721740DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86231463-6FF7-4D83-B2D9-BD066A8E1612}
+	EndGlobalSection
+EndGlobal
