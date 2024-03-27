@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z7/rCvlfb7eygainXSs5xjTkIZ4Dp0BJsYz6ox7NSWWgcUzOZyI6R9sMSUo9w33DHne+UJduL08smhHuhc9YCA==",
+  "dgSpecHash": "0ZqQQ3g3erkLpIReixfHUwy89V+tpvMdtL/9ZFZxGY90vbYV5LqepPRjmcH/f/7aaeE1Qu7KMRgWesp/Ri9K8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dgn_o\\OneDrive\\Masaüstü\\CV_Projeler\\4- BAPersonelTakipUygulamam\\BAPersonelTakipUygulamam.DAL\\BAPersonelTakipUygulamam.DAL.csproj",
+  "projectFilePath": "C:\\Users\\dgn_o\\OneDrive\\Documenten\\GitHub\\TheProjectsInMy_CV\\4- Ntier_PersonelTakipUygulamam-App\\BAPersonelTakipUygulamam.DAL\\BAPersonelTakipUygulamam.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dgn_o\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\dgn_o\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

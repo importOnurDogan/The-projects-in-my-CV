@@ -2659,11 +2659,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dgn_o\\OneDrive\\Masaüstü\\CV_Projeler\\4- BAPersonelTakipUygulamam\\BAPersonelTakipUygulamam.UI\\BAPersonelTakipUygulamam.UI.csproj",
+      "projectUniqueName": "C:\\Users\\dgn_o\\OneDrive\\Documenten\\GitHub\\TheProjectsInMy_CV\\4- Ntier_PersonelTakipUygulamam-App\\BAPersonelTakipUygulamam.UI\\BAPersonelTakipUygulamam.UI.csproj",
       "projectName": "BAPersonelTakipUygulamam.UI",
-      "projectPath": "C:\\Users\\dgn_o\\OneDrive\\Masaüstü\\CV_Projeler\\4- BAPersonelTakipUygulamam\\BAPersonelTakipUygulamam.UI\\BAPersonelTakipUygulamam.UI.csproj",
+      "projectPath": "C:\\Users\\dgn_o\\OneDrive\\Documenten\\GitHub\\TheProjectsInMy_CV\\4- Ntier_PersonelTakipUygulamam-App\\BAPersonelTakipUygulamam.UI\\BAPersonelTakipUygulamam.UI.csproj",
       "packagesPath": "C:\\Users\\dgn_o\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dgn_o\\OneDrive\\Masaüstü\\CV_Projeler\\4- BAPersonelTakipUygulamam\\BAPersonelTakipUygulamam.UI\\obj\\",
+      "outputPath": "C:\\Users\\dgn_o\\OneDrive\\Documenten\\GitHub\\TheProjectsInMy_CV\\4- Ntier_PersonelTakipUygulamam-App\\BAPersonelTakipUygulamam.UI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dgn_o\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2680,8 +2680,8 @@
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
           "projectReferences": {
-            "C:\\Users\\dgn_o\\OneDrive\\Masaüstü\\CV_Projeler\\4- BAPersonelTakipUygulamam\\BAPersonelTakipUygulamam.BLL\\BAPersonelTakipUygulamam.BLL.csproj": {
-              "projectPath": "C:\\Users\\dgn_o\\OneDrive\\Masaüstü\\CV_Projeler\\4- BAPersonelTakipUygulamam\\BAPersonelTakipUygulamam.BLL\\BAPersonelTakipUygulamam.BLL.csproj"
+            "C:\\Users\\dgn_o\\OneDrive\\Documenten\\GitHub\\TheProjectsInMy_CV\\4- Ntier_PersonelTakipUygulamam-App\\BAPersonelTakipUygulamam.BLL\\BAPersonelTakipUygulamam.BLL.csproj": {
+              "projectPath": "C:\\Users\\dgn_o\\OneDrive\\Documenten\\GitHub\\TheProjectsInMy_CV\\4- Ntier_PersonelTakipUygulamam-App\\BAPersonelTakipUygulamam.BLL\\BAPersonelTakipUygulamam.BLL.csproj"
             }
           }
         }

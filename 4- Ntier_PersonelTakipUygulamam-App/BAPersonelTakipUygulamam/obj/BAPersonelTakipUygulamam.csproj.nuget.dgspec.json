@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\BA_Dersleri2\\KONU_KatmanliMimari\\BAPersonelTakipUygulamam\\BAPersonelTakipUygulamam\\BAPersonelTakipUygulamam.csproj": {}
+    "C:\\Users\\dgn_o\\OneDrive\\Documenten\\GitHub\\TheProjectsInMy_CV\\4- Ntier_PersonelTakipUygulamam-App\\BAPersonelTakipUygulamam\\BAPersonelTakipUygulamam.csproj": {}
   },
   "projects": {
-    "C:\\BA_Dersleri2\\KONU_KatmanliMimari\\BAPersonelTakipUygulamam\\BAPersonelTakipUygulamam\\BAPersonelTakipUygulamam.csproj": {
+    "C:\\Users\\dgn_o\\OneDrive\\Documenten\\GitHub\\TheProjectsInMy_CV\\4- Ntier_PersonelTakipUygulamam-App\\BAPersonelTakipUygulamam\\BAPersonelTakipUygulamam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BA_Dersleri2\\KONU_KatmanliMimari\\BAPersonelTakipUygulamam\\BAPersonelTakipUygulamam\\BAPersonelTakipUygulamam.csproj",
+        "projectUniqueName": "C:\\Users\\dgn_o\\OneDrive\\Documenten\\GitHub\\TheProjectsInMy_CV\\4- Ntier_PersonelTakipUygulamam-App\\BAPersonelTakipUygulamam\\BAPersonelTakipUygulamam.csproj",
         "projectName": "BAPersonelTakipUygulamam",
-        "projectPath": "C:\\BA_Dersleri2\\KONU_KatmanliMimari\\BAPersonelTakipUygulamam\\BAPersonelTakipUygulamam\\BAPersonelTakipUygulamam.csproj",
+        "projectPath": "C:\\Users\\dgn_o\\OneDrive\\Documenten\\GitHub\\TheProjectsInMy_CV\\4- Ntier_PersonelTakipUygulamam-App\\BAPersonelTakipUygulamam\\BAPersonelTakipUygulamam.csproj",
         "packagesPath": "C:\\Users\\dgn_o\\.nuget\\packages\\",
-        "outputPath": "C:\\BA_Dersleri2\\KONU_KatmanliMimari\\BAPersonelTakipUygulamam\\BAPersonelTakipUygulamam\\obj\\",
+        "outputPath": "C:\\Users\\dgn_o\\OneDrive\\Documenten\\GitHub\\TheProjectsInMy_CV\\4- Ntier_PersonelTakipUygulamam-App\\BAPersonelTakipUygulamam\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dgn_o\\AppData\\Roaming\\NuGet\\NuGet.Config",

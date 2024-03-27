@@ -1,0 +1,11 @@
+C:\Users\dgn_o\OneDrive\Documenten\GitHub\TheProjectsInMy_CV\4- Ntier_PersonelTakipUygulamam-App\BAPersonelTakipUygulamam\bin\Debug\net7.0\BAPersonelTakipUygulamam.deps.json
+C:\Users\dgn_o\OneDrive\Documenten\GitHub\TheProjectsInMy_CV\4- Ntier_PersonelTakipUygulamam-App\BAPersonelTakipUygulamam\bin\Debug\net7.0\BAPersonelTakipUygulamam.dll
+C:\Users\dgn_o\OneDrive\Documenten\GitHub\TheProjectsInMy_CV\4- Ntier_PersonelTakipUygulamam-App\BAPersonelTakipUygulamam\bin\Debug\net7.0\BAPersonelTakipUygulamam.pdb
+C:\Users\dgn_o\OneDrive\Documenten\GitHub\TheProjectsInMy_CV\4- Ntier_PersonelTakipUygulamam-App\BAPersonelTakipUygulamam\obj\Debug\net7.0\BAPersonelTakipUygulamam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgn_o\OneDrive\Documenten\GitHub\TheProjectsInMy_CV\4- Ntier_PersonelTakipUygulamam-App\BAPersonelTakipUygulamam\obj\Debug\net7.0\BAPersonelTakipUygulamam.AssemblyInfoInputs.cache
+C:\Users\dgn_o\OneDrive\Documenten\GitHub\TheProjectsInMy_CV\4- Ntier_PersonelTakipUygulamam-App\BAPersonelTakipUygulamam\obj\Debug\net7.0\BAPersonelTakipUygulamam.AssemblyInfo.cs
+C:\Users\dgn_o\OneDrive\Documenten\GitHub\TheProjectsInMy_CV\4- Ntier_PersonelTakipUygulamam-App\BAPersonelTakipUygulamam\obj\Debug\net7.0\BAPersonelTakipUygulamam.csproj.CoreCompileInputs.cache
+C:\Users\dgn_o\OneDrive\Documenten\GitHub\TheProjectsInMy_CV\4- Ntier_PersonelTakipUygulamam-App\BAPersonelTakipUygulamam\obj\Debug\net7.0\BAPersonelTakipUygulamam.dll
+C:\Users\dgn_o\OneDrive\Documenten\GitHub\TheProjectsInMy_CV\4- Ntier_PersonelTakipUygulamam-App\BAPersonelTakipUygulamam\obj\Debug\net7.0\refint\BAPersonelTakipUygulamam.dll
+C:\Users\dgn_o\OneDrive\Documenten\GitHub\TheProjectsInMy_CV\4- Ntier_PersonelTakipUygulamam-App\BAPersonelTakipUygulamam\obj\Debug\net7.0\BAPersonelTakipUygulamam.pdb
+C:\Users\dgn_o\OneDrive\Documenten\GitHub\TheProjectsInMy_CV\4- Ntier_PersonelTakipUygulamam-App\BAPersonelTakipUygulamam\obj\Debug\net7.0\ref\BAPersonelTakipUygulamam.dll

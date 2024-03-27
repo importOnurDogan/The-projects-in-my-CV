@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dgn_o\\OneDrive\\Masaüstü\\CV_Projeler\\4- BAPersonelTakipUygulamam\\BAPersonelTakipUygulamam.DAL\\BAPersonelTakipUygulamam.DAL.csproj": {}
+    "C:\\Users\\dgn_o\\OneDrive\\Documenten\\GitHub\\TheProjectsInMy_CV\\4- Ntier_PersonelTakipUygulamam-App\\BAPersonelTakipUygulamam.DAL\\BAPersonelTakipUygulamam.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dgn_o\\OneDrive\\Masaüstü\\CV_Projeler\\4- BAPersonelTakipUygulamam\\BAPersonelTakipUygulamam.DAL\\BAPersonelTakipUygulamam.DAL.csproj": {
+    "C:\\Users\\dgn_o\\OneDrive\\Documenten\\GitHub\\TheProjectsInMy_CV\\4- Ntier_PersonelTakipUygulamam-App\\BAPersonelTakipUygulamam.DAL\\BAPersonelTakipUygulamam.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dgn_o\\OneDrive\\Masaüstü\\CV_Projeler\\4- BAPersonelTakipUygulamam\\BAPersonelTakipUygulamam.DAL\\BAPersonelTakipUygulamam.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\dgn_o\\OneDrive\\Documenten\\GitHub\\TheProjectsInMy_CV\\4- Ntier_PersonelTakipUygulamam-App\\BAPersonelTakipUygulamam.DAL\\BAPersonelTakipUygulamam.DAL.csproj",
         "projectName": "BAPersonelTakipUygulamam.DAL",
-        "projectPath": "C:\\Users\\dgn_o\\OneDrive\\Masaüstü\\CV_Projeler\\4- BAPersonelTakipUygulamam\\BAPersonelTakipUygulamam.DAL\\BAPersonelTakipUygulamam.DAL.csproj",
+        "projectPath": "C:\\Users\\dgn_o\\OneDrive\\Documenten\\GitHub\\TheProjectsInMy_CV\\4- Ntier_PersonelTakipUygulamam-App\\BAPersonelTakipUygulamam.DAL\\BAPersonelTakipUygulamam.DAL.csproj",
         "packagesPath": "C:\\Users\\dgn_o\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dgn_o\\OneDrive\\Masaüstü\\CV_Projeler\\4- BAPersonelTakipUygulamam\\BAPersonelTakipUygulamam.DAL\\obj\\",
+        "outputPath": "C:\\Users\\dgn_o\\OneDrive\\Documenten\\GitHub\\TheProjectsInMy_CV\\4- Ntier_PersonelTakipUygulamam-App\\BAPersonelTakipUygulamam.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dgn_o\\AppData\\Roaming\\NuGet\\NuGet.Config",
