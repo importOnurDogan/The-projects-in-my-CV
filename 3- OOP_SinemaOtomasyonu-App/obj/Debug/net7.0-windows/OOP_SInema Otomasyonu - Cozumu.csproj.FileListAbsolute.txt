@@ -1,0 +1,54 @@
+C:\BA_Dersleri2\KONU_OOP\OOP_SInema Otomasyonu - Cozumu\bin\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.exe
+C:\BA_Dersleri2\KONU_OOP\OOP_SInema Otomasyonu - Cozumu\bin\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.deps.json
+C:\BA_Dersleri2\KONU_OOP\OOP_SInema Otomasyonu - Cozumu\bin\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.runtimeconfig.json
+C:\BA_Dersleri2\KONU_OOP\OOP_SInema Otomasyonu - Cozumu\bin\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.dll
+C:\BA_Dersleri2\KONU_OOP\OOP_SInema Otomasyonu - Cozumu\bin\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.pdb
+C:\BA_Dersleri2\KONU_OOP\OOP_SInema Otomasyonu - Cozumu\obj\Debug\net7.0-windows\OOP_SInema_Otomasyonu___Cozumu.Form1.resources
+C:\BA_Dersleri2\KONU_OOP\OOP_SInema Otomasyonu - Cozumu\obj\Debug\net7.0-windows\OOP_SInema_Otomasyonu___Cozumu.Resource1.resources
+C:\BA_Dersleri2\KONU_OOP\OOP_SInema Otomasyonu - Cozumu\obj\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.csproj.GenerateResource.cache
+C:\BA_Dersleri2\KONU_OOP\OOP_SInema Otomasyonu - Cozumu\obj\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.GeneratedMSBuildEditorConfig.editorconfig
+C:\BA_Dersleri2\KONU_OOP\OOP_SInema Otomasyonu - Cozumu\obj\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.AssemblyInfoInputs.cache
+C:\BA_Dersleri2\KONU_OOP\OOP_SInema Otomasyonu - Cozumu\obj\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.AssemblyInfo.cs
+C:\BA_Dersleri2\KONU_OOP\OOP_SInema Otomasyonu - Cozumu\obj\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.csproj.CoreCompileInputs.cache
+C:\BA_Dersleri2\KONU_OOP\OOP_SInema Otomasyonu - Cozumu\obj\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.dll
+C:\BA_Dersleri2\KONU_OOP\OOP_SInema Otomasyonu - Cozumu\obj\Debug\net7.0-windows\refint\OOP_SInema Otomasyonu - Cozumu.dll
+C:\BA_Dersleri2\KONU_OOP\OOP_SInema Otomasyonu - Cozumu\obj\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.pdb
+C:\BA_Dersleri2\KONU_OOP\OOP_SInema Otomasyonu - Cozumu\obj\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.genruntimeconfig.cache
+C:\BA_Dersleri2\KONU_OOP\OOP_SInema Otomasyonu - Cozumu\obj\Debug\net7.0-windows\ref\OOP_SInema Otomasyonu - Cozumu.dll
+C:\BA_Dersleri2\KONU_OOP\OOP_SInema Otomasyonu - Cozumu\obj\Debug\net7.0-windows\OOP_SInema_Otomasyonu___Cozumu.RezervasyonEkrani.resources
+C:\BA_Dersleri2\KONU_OOP\OOP_18_SInema Otomasyonu - SORU\bin\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.exe
+C:\BA_Dersleri2\KONU_OOP\OOP_18_SInema Otomasyonu - SORU\bin\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.deps.json
+C:\BA_Dersleri2\KONU_OOP\OOP_18_SInema Otomasyonu - SORU\bin\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.runtimeconfig.json
+C:\BA_Dersleri2\KONU_OOP\OOP_18_SInema Otomasyonu - SORU\bin\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.dll
+C:\BA_Dersleri2\KONU_OOP\OOP_18_SInema Otomasyonu - SORU\bin\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.pdb
+C:\BA_Dersleri2\KONU_OOP\OOP_18_SInema Otomasyonu - SORU\obj\Debug\net7.0-windows\OOP_SInema_Otomasyonu___Cozumu.Form1.resources
+C:\BA_Dersleri2\KONU_OOP\OOP_18_SInema Otomasyonu - SORU\obj\Debug\net7.0-windows\OOP_SInema_Otomasyonu___Cozumu.Resource1.resources
+C:\BA_Dersleri2\KONU_OOP\OOP_18_SInema Otomasyonu - SORU\obj\Debug\net7.0-windows\OOP_SInema_Otomasyonu___Cozumu.RezervasyonEkrani.resources
+C:\BA_Dersleri2\KONU_OOP\OOP_18_SInema Otomasyonu - SORU\obj\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.csproj.GenerateResource.cache
+C:\BA_Dersleri2\KONU_OOP\OOP_18_SInema Otomasyonu - SORU\obj\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.GeneratedMSBuildEditorConfig.editorconfig
+C:\BA_Dersleri2\KONU_OOP\OOP_18_SInema Otomasyonu - SORU\obj\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.AssemblyInfoInputs.cache
+C:\BA_Dersleri2\KONU_OOP\OOP_18_SInema Otomasyonu - SORU\obj\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.AssemblyInfo.cs
+C:\BA_Dersleri2\KONU_OOP\OOP_18_SInema Otomasyonu - SORU\obj\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.csproj.CoreCompileInputs.cache
+C:\BA_Dersleri2\KONU_OOP\OOP_18_SInema Otomasyonu - SORU\obj\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.dll
+C:\BA_Dersleri2\KONU_OOP\OOP_18_SInema Otomasyonu - SORU\obj\Debug\net7.0-windows\refint\OOP_SInema Otomasyonu - Cozumu.dll
+C:\BA_Dersleri2\KONU_OOP\OOP_18_SInema Otomasyonu - SORU\obj\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.pdb
+C:\BA_Dersleri2\KONU_OOP\OOP_18_SInema Otomasyonu - SORU\obj\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.genruntimeconfig.cache
+C:\BA_Dersleri2\KONU_OOP\OOP_18_SInema Otomasyonu - SORU\obj\Debug\net7.0-windows\ref\OOP_SInema Otomasyonu - Cozumu.dll
+C:\BA_Dersleri2\10-KONU_OOP\OOP_18_SInema Otomasyonu - SORU\bin\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.exe
+C:\BA_Dersleri2\10-KONU_OOP\OOP_18_SInema Otomasyonu - SORU\bin\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.deps.json
+C:\BA_Dersleri2\10-KONU_OOP\OOP_18_SInema Otomasyonu - SORU\bin\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.runtimeconfig.json
+C:\BA_Dersleri2\10-KONU_OOP\OOP_18_SInema Otomasyonu - SORU\bin\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.dll
+C:\BA_Dersleri2\10-KONU_OOP\OOP_18_SInema Otomasyonu - SORU\bin\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.pdb
+C:\BA_Dersleri2\10-KONU_OOP\OOP_18_SInema Otomasyonu - SORU\obj\Debug\net7.0-windows\OOP_SInema_Otomasyonu___Cozumu.Form1.resources
+C:\BA_Dersleri2\10-KONU_OOP\OOP_18_SInema Otomasyonu - SORU\obj\Debug\net7.0-windows\OOP_SInema_Otomasyonu___Cozumu.Resource1.resources
+C:\BA_Dersleri2\10-KONU_OOP\OOP_18_SInema Otomasyonu - SORU\obj\Debug\net7.0-windows\OOP_SInema_Otomasyonu___Cozumu.RezervasyonEkrani.resources
+C:\BA_Dersleri2\10-KONU_OOP\OOP_18_SInema Otomasyonu - SORU\obj\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.csproj.GenerateResource.cache
+C:\BA_Dersleri2\10-KONU_OOP\OOP_18_SInema Otomasyonu - SORU\obj\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.GeneratedMSBuildEditorConfig.editorconfig
+C:\BA_Dersleri2\10-KONU_OOP\OOP_18_SInema Otomasyonu - SORU\obj\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.AssemblyInfoInputs.cache
+C:\BA_Dersleri2\10-KONU_OOP\OOP_18_SInema Otomasyonu - SORU\obj\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.AssemblyInfo.cs
+C:\BA_Dersleri2\10-KONU_OOP\OOP_18_SInema Otomasyonu - SORU\obj\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.csproj.CoreCompileInputs.cache
+C:\BA_Dersleri2\10-KONU_OOP\OOP_18_SInema Otomasyonu - SORU\obj\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.dll
+C:\BA_Dersleri2\10-KONU_OOP\OOP_18_SInema Otomasyonu - SORU\obj\Debug\net7.0-windows\refint\OOP_SInema Otomasyonu - Cozumu.dll
+C:\BA_Dersleri2\10-KONU_OOP\OOP_18_SInema Otomasyonu - SORU\obj\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.pdb
+C:\BA_Dersleri2\10-KONU_OOP\OOP_18_SInema Otomasyonu - SORU\obj\Debug\net7.0-windows\OOP_SInema Otomasyonu - Cozumu.genruntimeconfig.cache
+C:\BA_Dersleri2\10-KONU_OOP\OOP_18_SInema Otomasyonu - SORU\obj\Debug\net7.0-windows\ref\OOP_SInema Otomasyonu - Cozumu.dll
