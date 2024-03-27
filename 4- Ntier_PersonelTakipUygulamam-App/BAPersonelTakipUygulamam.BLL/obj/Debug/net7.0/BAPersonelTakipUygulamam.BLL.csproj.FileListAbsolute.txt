@@ -1,0 +1,45 @@
+C:\BA_Dersleri2\KONU_KatmanliMimari\BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\bin\Debug\net7.0\BAPersonelTakipUygulamam.BLL.deps.json
+C:\BA_Dersleri2\KONU_KatmanliMimari\BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\bin\Debug\net7.0\BAPersonelTakipUygulamam.BLL.dll
+C:\BA_Dersleri2\KONU_KatmanliMimari\BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\bin\Debug\net7.0\BAPersonelTakipUygulamam.BLL.pdb
+C:\BA_Dersleri2\KONU_KatmanliMimari\BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\obj\Debug\net7.0\BAPersonelTakipUygulamam.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\BA_Dersleri2\KONU_KatmanliMimari\BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\obj\Debug\net7.0\BAPersonelTakipUygulamam.BLL.AssemblyInfoInputs.cache
+C:\BA_Dersleri2\KONU_KatmanliMimari\BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\obj\Debug\net7.0\BAPersonelTakipUygulamam.BLL.AssemblyInfo.cs
+C:\BA_Dersleri2\KONU_KatmanliMimari\BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\obj\Debug\net7.0\BAPersonelTakipUygulamam.BLL.csproj.CoreCompileInputs.cache
+C:\BA_Dersleri2\KONU_KatmanliMimari\BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\obj\Debug\net7.0\BAPersonelTakipUygulamam.BLL.dll
+C:\BA_Dersleri2\KONU_KatmanliMimari\BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\obj\Debug\net7.0\refint\BAPersonelTakipUygulamam.BLL.dll
+C:\BA_Dersleri2\KONU_KatmanliMimari\BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\obj\Debug\net7.0\BAPersonelTakipUygulamam.BLL.pdb
+C:\BA_Dersleri2\KONU_KatmanliMimari\BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\obj\Debug\net7.0\ref\BAPersonelTakipUygulamam.BLL.dll
+C:\BA_Dersleri2\KONU_KatmanliMimari\BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\bin\Debug\net7.0\BAPersonelTakipUygulamam.DAL.dll
+C:\BA_Dersleri2\KONU_KatmanliMimari\BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\bin\Debug\net7.0\BAPersonelTakipUygulamam.DAL.pdb
+C:\BA_Dersleri2\KONU_KatmanliMimari\BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\obj\Debug\net7.0\BAPersonelTakipUygulamam.BLL.csproj.AssemblyReference.cache
+C:\BA_Dersleri2\KONU_KatmanliMimari\BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\obj\Debug\net7.0\BAPersonelTakipUygulamam.BLL.csproj.CopyComplete
+C:\BA_Dersleri2\12-KONU_KatmanliMimari\BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\bin\Debug\net7.0\BAPersonelTakipUygulamam.BLL.deps.json
+C:\BA_Dersleri2\12-KONU_KatmanliMimari\BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\bin\Debug\net7.0\BAPersonelTakipUygulamam.BLL.dll
+C:\BA_Dersleri2\12-KONU_KatmanliMimari\BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\bin\Debug\net7.0\BAPersonelTakipUygulamam.BLL.pdb
+C:\BA_Dersleri2\12-KONU_KatmanliMimari\BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\bin\Debug\net7.0\BAPersonelTakipUygulamam.DAL.dll
+C:\BA_Dersleri2\12-KONU_KatmanliMimari\BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\bin\Debug\net7.0\BAPersonelTakipUygulamam.DAL.pdb
+C:\BA_Dersleri2\12-KONU_KatmanliMimari\BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\obj\Debug\net7.0\BAPersonelTakipUygulamam.BLL.csproj.AssemblyReference.cache
+C:\BA_Dersleri2\12-KONU_KatmanliMimari\BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\obj\Debug\net7.0\BAPersonelTakipUygulamam.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\BA_Dersleri2\12-KONU_KatmanliMimari\BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\obj\Debug\net7.0\BAPersonelTakipUygulamam.BLL.AssemblyInfoInputs.cache
+C:\BA_Dersleri2\12-KONU_KatmanliMimari\BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\obj\Debug\net7.0\BAPersonelTakipUygulamam.BLL.AssemblyInfo.cs
+C:\BA_Dersleri2\12-KONU_KatmanliMimari\BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\obj\Debug\net7.0\BAPersonelTakipUygulamam.BLL.csproj.CoreCompileInputs.cache
+C:\BA_Dersleri2\12-KONU_KatmanliMimari\BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\obj\Debug\net7.0\BAPersonelTakipUygulamam.BLL.csproj.CopyComplete
+C:\BA_Dersleri2\12-KONU_KatmanliMimari\BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\obj\Debug\net7.0\BAPersonelTakipUygulamam.BLL.dll
+C:\BA_Dersleri2\12-KONU_KatmanliMimari\BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\obj\Debug\net7.0\refint\BAPersonelTakipUygulamam.BLL.dll
+C:\BA_Dersleri2\12-KONU_KatmanliMimari\BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\obj\Debug\net7.0\BAPersonelTakipUygulamam.BLL.pdb
+C:\BA_Dersleri2\12-KONU_KatmanliMimari\BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\obj\Debug\net7.0\ref\BAPersonelTakipUygulamam.BLL.dll
+C:\Users\dgn_o\OneDrive\Masaüstü\CV_Projeler\4- BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\bin\Debug\net7.0\BAPersonelTakipUygulamam.BLL.deps.json
+C:\Users\dgn_o\OneDrive\Masaüstü\CV_Projeler\4- BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\bin\Debug\net7.0\BAPersonelTakipUygulamam.BLL.dll
+C:\Users\dgn_o\OneDrive\Masaüstü\CV_Projeler\4- BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\bin\Debug\net7.0\BAPersonelTakipUygulamam.BLL.pdb
+C:\Users\dgn_o\OneDrive\Masaüstü\CV_Projeler\4- BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\bin\Debug\net7.0\BAPersonelTakipUygulamam.DAL.dll
+C:\Users\dgn_o\OneDrive\Masaüstü\CV_Projeler\4- BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\bin\Debug\net7.0\BAPersonelTakipUygulamam.DAL.pdb
+C:\Users\dgn_o\OneDrive\Masaüstü\CV_Projeler\4- BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\obj\Debug\net7.0\BAPersonelTakipUygulamam.BLL.csproj.AssemblyReference.cache
+C:\Users\dgn_o\OneDrive\Masaüstü\CV_Projeler\4- BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\obj\Debug\net7.0\BAPersonelTakipUygulamam.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgn_o\OneDrive\Masaüstü\CV_Projeler\4- BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\obj\Debug\net7.0\BAPersonelTakipUygulamam.BLL.AssemblyInfoInputs.cache
+C:\Users\dgn_o\OneDrive\Masaüstü\CV_Projeler\4- BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\obj\Debug\net7.0\BAPersonelTakipUygulamam.BLL.AssemblyInfo.cs
+C:\Users\dgn_o\OneDrive\Masaüstü\CV_Projeler\4- BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\obj\Debug\net7.0\BAPersonelTakipUygulamam.BLL.csproj.CoreCompileInputs.cache
+C:\Users\dgn_o\OneDrive\Masaüstü\CV_Projeler\4- BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\obj\Debug\net7.0\BAPersonelTakipUygulamam.BLL.csproj.CopyComplete
+C:\Users\dgn_o\OneDrive\Masaüstü\CV_Projeler\4- BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\obj\Debug\net7.0\BAPersonelTakipUygulamam.BLL.dll
+C:\Users\dgn_o\OneDrive\Masaüstü\CV_Projeler\4- BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\obj\Debug\net7.0\refint\BAPersonelTakipUygulamam.BLL.dll
+C:\Users\dgn_o\OneDrive\Masaüstü\CV_Projeler\4- BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\obj\Debug\net7.0\BAPersonelTakipUygulamam.BLL.pdb
+C:\Users\dgn_o\OneDrive\Masaüstü\CV_Projeler\4- BAPersonelTakipUygulamam\BAPersonelTakipUygulamam.BLL\obj\Debug\net7.0\ref\BAPersonelTakipUygulamam.BLL.dll
